@@ -32,7 +32,7 @@ export const projects = [
   {
     title: "Chat APP",
     description:
-      "Using an API called Chat Engine and JavaScript. To access (Username: guess, Password: 123456) (Username: guess2, Password: guess123",
+      "YourChat, your comfort place to chat. Using an API called Chat Engine and JavaScript. To access (Username: guess, Password: 123456)",
     image: "/images/4.png",
     tags: ["HTML", "JavaScript", "CSS", "API"],
     source: "https://github.com/dhikad19/yourchat-app",
