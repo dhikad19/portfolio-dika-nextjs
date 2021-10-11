@@ -49,6 +49,13 @@ const Projects = () => (
               >
                 Source
               </ExternalLinks>
+              <ExternalLinks
+                href={p.demo}
+                target="_blank"
+                rel="noreferrer noopener"
+              >
+                Demo
+              </ExternalLinks>
             </UtilityList>
           </BlogCard>
         );

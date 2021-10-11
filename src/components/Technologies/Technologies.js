@@ -53,13 +53,13 @@ const Technologies = () => (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiAndroid size="3rem" />
+        <DiFirebase size="3rem" />
         <ListContainer>
           <br />
-          <ListTitle>Mobile</ListTitle>
+          <ListTitle>Tools</ListTitle>
           <ListParagraph>
-            Little Experienced With <br />
-            Flutter and React Native
+            Experienced With <br />
+            Git, Firebase and API
           </ListParagraph>
         </ListContainer>
       </ListItem>

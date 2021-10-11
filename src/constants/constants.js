@@ -6,6 +6,7 @@ export const projects = [
     image: "/images/1.png",
     tags: ["Python", "HTML", "Django", "CSS"],
     source: "https://github.com/dhikad19/django-todo-list",
+    demo: "https://dika-todo-list.herokuapp.com/",
     id: 0,
   },
   {
@@ -15,6 +16,7 @@ export const projects = [
     image: "/images/2.png",
     tags: ["HTML", "JavaScript", "CSS", "SCSS"],
     source: "https://github.com/dhikad19/aim-it-app",
+    demo: "https://aim-it-dika.herokuapp.com/",
     id: 1,
   },
   {
@@ -24,6 +26,7 @@ export const projects = [
     image: "/images/3.png",
     tags: ["HTML", "JavaScript", "CSS"],
     source: "https://github.com/dhikad19/quiz-app",
+    demo: "https://dika-quiz-app.herokuapp.com/",
     id: 2,
   },
   {
@@ -33,21 +36,22 @@ export const projects = [
     image: "/images/4.png",
     tags: ["HTML", "JavaScript", "CSS", "API"],
     source: "https://github.com/dhikad19/yourchat-app",
+    demo: "https://dika-yourchat.herokuapp.com/",
     id: 3,
   },
 ];
 
 export const TimeLineData = [
-  {
-    year: 2016,
-    text: "First year study in University as Informatics Engineering",
-  },
   { year: 2017, text: "Started my journey and learn more about technology" },
   {
     year: 2018,
     text: "Build simple projects, and learn to build more and develop it more",
   },
   { year: 2019, text: "Learn more about python and BackEnd Programming" },
+  {
+    year: 2021,
+    text: "Graduated from Satya Negara Indonesia University majoring Informatics Engineering",
+  },
   {
     year: 2021,
     text: "Got my database certificated and Shared my work with the world",
